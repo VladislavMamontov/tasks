@@ -7,5 +7,4 @@ public class App {
     SlotMachine slotMachine = new SlotMachine();
     slotMachine.play();
   }
-
 }
